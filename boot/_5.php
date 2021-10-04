@@ -1,15 +1,17 @@
 <?php
 
+
+
 error_reporting(-1);
 
 // считывания данных с URL браузера
 $query = rtrim($_SERVER['QUERY_STRING'], '/');
 
 require '../libs/myDebug.php';
-require '../boot/ArrayDemo.php';
 
 
-const TOKEN = '';
+
+const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
 
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
 
