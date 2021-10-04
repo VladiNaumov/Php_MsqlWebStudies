@@ -6,6 +6,7 @@ error_reporting(-1);
 $query = rtrim($_SERVER['QUERY_STRING'], '/');
 
 require '../libs/myDebug.php';
+require '../public/Ruote.php';
 
 const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
 
@@ -23,8 +24,16 @@ $url = BASE_ULR . 'getUpdates';
  */
 $res = json_decode(file_get_contents($url), false);
 
-debug($res);
+// debug($res);
 
+ Ruote::add('0', ['a' => '1', 'b' => '1', 'c' => '1', 'd' => '1' ]);
+
+  $test = Ruote::$routes;
+  debug($test);
+
+
+  $demo = Ruote::demo();
+  debug($demo);
 
 
 
