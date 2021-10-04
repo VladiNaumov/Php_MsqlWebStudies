@@ -8,7 +8,7 @@ $query = rtrim($_SERVER['QUERY_STRING'], '/');
 require '../libs/myDebug.php';
 require '../public/Ruote.php';
 
-const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
+const TOKEN = '';
 
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
 
