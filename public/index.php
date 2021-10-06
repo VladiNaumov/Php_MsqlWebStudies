@@ -10,7 +10,6 @@ require '../libs/myDebug.php';
 // Telegram token
 const TOKEN = '';
 
-
 // Telegram API url
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
 
@@ -46,15 +45,23 @@ $send_url = BASE_ULR . 'sendMessage';
 $res = json_decode(file_get_contents($url), false);
 
 
-
 if (!empty($res->result)) {
     foreach ($res->result as $item) {
-        echo "{$item->message->text}<br><hr>";
+
+        // печать полученного сообщение из массива сообщений
+        echo " Вам сообщение: {$item->message->text}<br>";
+
+        // отправка сообщение из массива сообщений
         $text = "Вы написали: {$item->message->text}";
-        $send_url = BASE_ULR . 'sendMessage';
-        $send_url .= "?chat_id={$item->message->chat->id}&text=$text";
-        $send = json_decode(file_get_contents($send_url));
-        debug($send);
+
+
+        // формирование запроса и отправка сообщение в телеграмм
+        // пример строки запроса https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/sendMessage?chat_id=
+        $send_url = BASE_ULR . 'sendMessage' . "?chat_id={$item->message->chat->id}&text=$text";
+
+        // отправка сообщений
+        $send = json_decode(file_get_contents($send_url), false);
+        //debug($send);
     }
 }
 
@@ -64,19 +71,14 @@ if (!empty($res->result)) {
 
 
 
-// отправка данных
+// чтение данных с массива
 //$text = " Your send message : {$res->result[6]->message->text}";
 
 
-/* Допускаются GET и POST запросы. Для передачи параметров в Bot API доступны */
+/* Допускаются GET и POST запросы. */
 
 // формирование запроса и отправка сообщение в телеграмм
 //$send = json_decode(file_get_contents($send_url . "?chat_id={$chat_id}&text={$text}"));
-
-
-
-//debug($send);
-
 
 
 
