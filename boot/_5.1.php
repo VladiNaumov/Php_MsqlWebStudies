@@ -1,69 +1,27 @@
 <?php
 
-
 error_reporting(-1);
 
+// считывания данных с URL браузера
+$query = rtrim($_SERVER['QUERY_STRING'], '/');
 
 require '../libs/myDebug.php';
 
 // Telegram token
-const TOKEN = '';
+const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
 
 // Telegram API url
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
 
 
-const START = false;
-
-while (START) {
-
-    $url = BASE_ULR . 'getUpdates';
-    if (isset($last_update)) {
-        $params = [
-            // передаём последний update_ID что бы сказать телеграмму что сообщение получено и прочитано
-            'offset' => $last_update + 1,
-        ];
-
-        // http_build_query() -> Генерирует URL-кодированную строку запроса из предоставленного ассоциативного (или индексированного) массива.
-           $url .= '?' . http_build_query($params);
-
-        // https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/getUpdates?offset=860099807
-
-    }
-
-
-    $res = json_decode(file_get_contents($url));
-
-    // send message
-    if (!empty($res->result)) {
-        file_put_contents(__DIR__ . '/logs.txt', print_r($res, 1), FILE_APPEND);
-
-        foreach ($res->result as $item) {
-
-            echo $item->message->text . PHP_EOL;
-
-            $last_update = $item->update_id;
-            $send_url = BASE_ULR . 'sendMessage';
-
-            $send_params = [
-                'chat_id' => $item->message->chat->id,
-                'text' => "Вы написали: {$item->message->text}",
-            ];
-
-            $send_url .= "?" . http_build_query($send_params);
-
-            $send = json_decode(file_get_contents($send_url));
-        }
-    }
-
-    sleep(10);
-
-}
 
 /*
  *Method getUpdate - Этот метод используется для получения обновлений через long polling (wiki).
  * Ответ возвращается в виде массива объектов Update.
 */
+
+// пример получение строки https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/getUpdates
+$url = BASE_ULR . 'getUpdates';
 
 
 /*
@@ -71,6 +29,8 @@ while (START) {
  * Use this method to send text messages. On success, the sent Message is returned
  */
 
+// пример получение строки  https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/sendMessage
+$send_url = BASE_ULR . 'sendMessage';
 
 
 /*
@@ -81,6 +41,29 @@ while (START) {
  * file_get_contents - Читает содержимое файла в строку
  */
 
+
+$res = json_decode(file_get_contents($url), false);
+
+
+if (!empty($res->result)) {
+    foreach ($res->result as $item) {
+
+        // печать полученного сообщение из массива сообщений
+        echo " Вам сообщение: {$item->message->text}<br>";
+
+        // отправка сообщение из массива сообщений
+        $text = "Вы написали: {$item->message->text}";
+
+
+        // формирование запроса и отправка сообщение в телеграмм
+        // пример строки запроса https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/sendMessage?chat_id=
+        $send_url = BASE_ULR . 'sendMessage' . "?chat_id={$item->message->chat->id}&text=$text";
+
+        // отправка сообщений
+        $send = json_decode(file_get_contents($send_url), false);
+        //debug($send);
+    }
+}
 
 
 //  получение данных chat-id
