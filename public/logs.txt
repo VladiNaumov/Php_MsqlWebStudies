@@ -1,0 +1,2453 @@
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099770
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 158
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633537609
+                            [text] => KLERK KLERK KLER
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [update_id] => 860099771
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 175
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633537710
+                            [text] => /7777/
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [update_id] => 860099772
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 248
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633538165
+                            [text] => TEST"
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [update_id] => 860099773
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 337
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633551488
+                            [text] => Хорошо работает
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [update_id] => 860099774
+                    [my_chat_member] => stdClass Object
+                        (
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [date] => 1633551519
+                            [old_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => member
+                                )
+
+                            [new_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => kicked
+                                    [until_date] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [update_id] => 860099775
+                    [my_chat_member] => stdClass Object
+                        (
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [date] => 1633551560
+                            [old_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => kicked
+                                    [until_date] => 0
+                                )
+
+                            [new_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => member
+                                )
+
+                        )
+
+                )
+
+            [6] => stdClass Object
+                (
+                    [update_id] => 860099776
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 402
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633551598
+                            [text] => 😜😜😜
+                        )
+
+                )
+
+            [7] => stdClass Object
+                (
+                    [update_id] => 860099777
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 421
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633551634
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [8] => stdClass Object
+                (
+                    [update_id] => 860099778
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 462
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633551662
+                            [text] => Ой
+                        )
+
+                )
+
+            [9] => stdClass Object
+                (
+                    [update_id] => 860099779
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 485
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633551936
+                            [text] => —->
+                        )
+
+                )
+
+            [10] => stdClass Object
+                (
+                    [update_id] => 860099780
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 486
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633552041
+                            [text] => RTRT
+                        )
+
+                )
+
+            [11] => stdClass Object
+                (
+                    [update_id] => 860099781
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 513
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633552186
+                            [text] => TEST REM TEST
+                        )
+
+                )
+
+            [12] => stdClass Object
+                (
+                    [update_id] => 860099782
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 542
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633552218
+                            [photo] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [file_id] => AgACAgQAAxkBAAICHmFeB1ntExllJd65Nw8Hah9reSoRAAIntjEbRFPxUkp_vUgqt8FtAQADAgADcwADIQQ
+                                            [file_unique_id] => AQADJ7YxG0RT8VJ4
+                                            [file_size] => 1089
+                                            [width] => 90
+                                            [height] => 51
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [file_id] => AgACAgQAAxkBAAICHmFeB1ntExllJd65Nw8Hah9reSoRAAIntjEbRFPxUkp_vUgqt8FtAQADAgADbQADIQQ
+                                            [file_unique_id] => AQADJ7YxG0RT8VJy
+                                            [file_size] => 15967
+                                            [width] => 320
+                                            [height] => 180
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [file_id] => AgACAgQAAxkBAAICHmFeB1ntExllJd65Nw8Hah9reSoRAAIntjEbRFPxUkp_vUgqt8FtAQADAgADeAADIQQ
+                                            [file_unique_id] => AQADJ7YxG0RT8VJ9
+                                            [file_size] => 85765
+                                            [width] => 800
+                                            [height] => 450
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [file_id] => AgACAgQAAxkBAAICHmFeB1ntExllJd65Nw8Hah9reSoRAAIntjEbRFPxUkp_vUgqt8FtAQADAgADeQADIQQ
+                                            [file_unique_id] => AQADJ7YxG0RT8VJ-
+                                            [file_size] => 178774
+                                            [width] => 1280
+                                            [height] => 720
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [13] => stdClass Object
+                (
+                    [update_id] => 860099783
+                    [my_chat_member] => stdClass Object
+                        (
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [date] => 1633552576
+                            [old_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => member
+                                )
+
+                            [new_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => kicked
+                                    [until_date] => 0
+                                )
+
+                        )
+
+                )
+
+            [14] => stdClass Object
+                (
+                    [update_id] => 860099784
+                    [my_chat_member] => stdClass Object
+                        (
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [date] => 1633552591
+                            [old_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => kicked
+                                    [until_date] => 0
+                                )
+
+                            [new_chat_member] => stdClass Object
+                                (
+                                    [user] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [status] => member
+                                )
+
+                        )
+
+                )
+
+            [15] => stdClass Object
+                (
+                    [update_id] => 860099785
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 573
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633552592
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099786
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 769
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633622708
+                            [text] => TEST _>
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099787
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 773
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633622729
+                            [text] => 5
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099788
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 778
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633622774
+                            [text] => 3
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099789
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 783
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633622785
+                            [reply_to_message] => stdClass Object
+                                (
+                                    [message_id] => 781
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622775
+                                    [text] => Hi There!
+
+Before We Can Continue We Need To Verify That You're A REAL User
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 0
+                                                    [length] => 9
+                                                    [type] => bold
+                                                )
+
+                                            [1] => stdClass Object
+                                                (
+                                                    [offset] => 66
+                                                    [length] => 4
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                )
+
+                            [contact] => stdClass Object
+                                (
+                                    [phone_number] => +358452156199
+                                    [first_name] => VoVa
+                                    [user_id] => 807221061
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099790
+                    [callback_query] => stdClass Object
+                        (
+                            [id] => 3466988059506631193
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [message] => stdClass Object
+                                (
+                                    [message_id] => 786
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622792
+                                    [text] => Please Type the code you've just recieved via SMS In The OnScreen Keyboard Below
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 50
+                                                    [length] => 30
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                    [reply_markup] => stdClass Object
+                                        (
+                                            [inline_keyboard] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 1
+                                                                    [callback_data] => 1
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 2
+                                                                    [callback_data] => 2
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 3
+                                                                    [callback_data] => 3
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 4
+                                                                    [callback_data] => 4
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 5
+                                                                    [callback_data] => 5
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 6
+                                                                    [callback_data] => 6
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 7
+                                                                    [callback_data] => 7
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 8
+                                                                    [callback_data] => 8
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 9
+                                                                    [callback_data] => 9
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => *
+                                                                    [callback_data] => *
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 0
+                                                                    [callback_data] => 0
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => #
+                                                                    [callback_data] => #
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [chat_instance] => 5295967819559559846
+                            [data] => 3
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [update_id] => 860099791
+                    [callback_query] => stdClass Object
+                        (
+                            [id] => 3466988061429676949
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [message] => stdClass Object
+                                (
+                                    [message_id] => 786
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622792
+                                    [text] => Please Type the code you've just recieved via SMS In The OnScreen Keyboard Below
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 50
+                                                    [length] => 30
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                    [reply_markup] => stdClass Object
+                                        (
+                                            [inline_keyboard] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 1
+                                                                    [callback_data] => 1
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 2
+                                                                    [callback_data] => 2
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 3
+                                                                    [callback_data] => 3
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 4
+                                                                    [callback_data] => 4
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 5
+                                                                    [callback_data] => 5
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 6
+                                                                    [callback_data] => 6
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 7
+                                                                    [callback_data] => 7
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 8
+                                                                    [callback_data] => 8
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 9
+                                                                    [callback_data] => 9
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => *
+                                                                    [callback_data] => *
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 0
+                                                                    [callback_data] => 0
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => #
+                                                                    [callback_data] => #
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [chat_instance] => 5295967819559559846
+                            [data] => 3
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099792
+                    [callback_query] => stdClass Object
+                        (
+                            [id] => 3466988060357945662
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [message] => stdClass Object
+                                (
+                                    [message_id] => 786
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622792
+                                    [text] => Please Type the code you've just recieved via SMS In The OnScreen Keyboard Below
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 50
+                                                    [length] => 30
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                    [reply_markup] => stdClass Object
+                                        (
+                                            [inline_keyboard] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 1
+                                                                    [callback_data] => 1
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 2
+                                                                    [callback_data] => 2
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 3
+                                                                    [callback_data] => 3
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 4
+                                                                    [callback_data] => 4
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 5
+                                                                    [callback_data] => 5
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 6
+                                                                    [callback_data] => 6
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 7
+                                                                    [callback_data] => 7
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 8
+                                                                    [callback_data] => 8
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 9
+                                                                    [callback_data] => 9
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => *
+                                                                    [callback_data] => *
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 0
+                                                                    [callback_data] => 0
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => #
+                                                                    [callback_data] => #
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [chat_instance] => 5295967819559559846
+                            [data] => 8
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [update_id] => 860099793
+                    [callback_query] => stdClass Object
+                        (
+                            [id] => 3466988061479794290
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [message] => stdClass Object
+                                (
+                                    [message_id] => 786
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622792
+                                    [text] => Please Type the code you've just recieved via SMS In The OnScreen Keyboard Below
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 50
+                                                    [length] => 30
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                    [reply_markup] => stdClass Object
+                                        (
+                                            [inline_keyboard] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 1
+                                                                    [callback_data] => 1
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 2
+                                                                    [callback_data] => 2
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 3
+                                                                    [callback_data] => 3
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 4
+                                                                    [callback_data] => 4
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 5
+                                                                    [callback_data] => 5
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 6
+                                                                    [callback_data] => 6
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 7
+                                                                    [callback_data] => 7
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 8
+                                                                    [callback_data] => 8
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 9
+                                                                    [callback_data] => 9
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => *
+                                                                    [callback_data] => *
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 0
+                                                                    [callback_data] => 0
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => #
+                                                                    [callback_data] => #
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [chat_instance] => 5295967819559559846
+                            [data] => 7
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099794
+                    [callback_query] => stdClass Object
+                        (
+                            [id] => 3466988060022055145
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [message] => stdClass Object
+                                (
+                                    [message_id] => 786
+                                    [from] => stdClass Object
+                                        (
+                                            [id] => 2006101055
+                                            [is_bot] => 1
+                                            [first_name] => NaumDeveloper
+                                            [username] => NaumDeveloperBot
+                                        )
+
+                                    [chat] => stdClass Object
+                                        (
+                                            [id] => 807221061
+                                            [first_name] => VoVa
+                                            [username] => NaumDeveloper
+                                            [type] => private
+                                        )
+
+                                    [date] => 1633622792
+                                    [text] => Please Type the code you've just recieved via SMS In The OnScreen Keyboard Below
+                                    [entities] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [offset] => 50
+                                                    [length] => 30
+                                                    [type] => bold
+                                                )
+
+                                        )
+
+                                    [reply_markup] => stdClass Object
+                                        (
+                                            [inline_keyboard] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 1
+                                                                    [callback_data] => 1
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 2
+                                                                    [callback_data] => 2
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 3
+                                                                    [callback_data] => 3
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 4
+                                                                    [callback_data] => 4
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 5
+                                                                    [callback_data] => 5
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 6
+                                                                    [callback_data] => 6
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => 7
+                                                                    [callback_data] => 7
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 8
+                                                                    [callback_data] => 8
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => 9
+                                                                    [callback_data] => 9
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [0] => stdClass Object
+                                                                (
+                                                                    [text] => *
+                                                                    [callback_data] => *
+                                                                )
+
+                                                            [1] => stdClass Object
+                                                                (
+                                                                    [text] => 0
+                                                                    [callback_data] => 0
+                                                                )
+
+                                                            [2] => stdClass Object
+                                                                (
+                                                                    [text] => #
+                                                                    [callback_data] => #
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [chat_instance] => 5295967819559559846
+                            [data] => 1
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099795
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 789
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623099
+                            [text] => 5
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099796
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 791
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623106
+                            [text] => RERERERER
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099802
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 813
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623364
+                            [text] => 5
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [update_id] => 860099803
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 817
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623366
+                            [text] => 555
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099804
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 823
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623370
+                            [text] => 5
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099805
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 828
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623376
+                            [text] => 6
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099806
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 832
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633623688
+                            [text] => 4
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099807
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 834
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624085
+                            [text] => DEMO
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099808
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 836
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624117
+                            [text] => TEST
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099809
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 838
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624130
+                            [text] => WERTYUU
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099809
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 838
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624130
+                            [text] => WERTYUU
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099810
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 841
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624163
+                            [text] => %
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099811
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 843
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624171
+                            [text] => LEGO
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099812
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 845
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624182
+                            [text] => 🤪
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099813
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 847
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624206
+                            [sticker] => stdClass Object
+                                (
+                                    [width] => 512
+                                    [height] => 512
+                                    [emoji] => 👯‍♀️
+                                    [set_name] => UtyaDuck
+                                    [is_animated] => 1
+                                    [thumb] => stdClass Object
+                                        (
+                                            [file_id] => AAMCAgADGQEAAgNPYV8gjmEuXkMl2Ztmm7XvGldLAygAAk8CAAJWnb0Kz8rGiWd1ZZUBAAdtAAMhBA
+                                            [file_unique_id] => AQADTwIAAladvQpy
+                                            [file_size] => 6472
+                                            [width] => 128
+                                            [height] => 128
+                                        )
+
+                                    [file_id] => CAACAgIAAxkBAAIDT2FfII5hLl5DJdmbZpu17xpXSwMoAAJPAgACVp29Cs_KxolndWWVIQQ
+                                    [file_unique_id] => AgADTwIAAladvQo
+                                    [file_size] => 14498
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099814
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 849
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624220
+                            [text] => T
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099815
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 851
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624239
+                            [text] => 3456
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [update_id] => 860099816
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 852
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624240
+                            [text] => 6
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [update_id] => 860099817
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 853
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624240
+                            [text] => 6
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [update_id] => 860099818
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 854
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624240
+                            [text] => 65
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [update_id] => 860099819
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 855
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624241
+                            [text] => 56
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [update_id] => 860099820
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 856
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624241
+                            [text] => 454
+                        )
+
+                )
+
+            [6] => stdClass Object
+                (
+                    [update_id] => 860099821
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 857
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624241
+                            [text] => 5
+                        )
+
+                )
+
+            [7] => stdClass Object
+                (
+                    [update_id] => 860099822
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 858
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633624242
+                            [text] => 6
+                        )
+
+                )
+
+        )
+
+)
