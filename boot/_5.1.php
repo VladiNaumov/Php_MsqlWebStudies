@@ -8,7 +8,7 @@ $query = rtrim($_SERVER['QUERY_STRING'], '/');
 require '../libs/myDebug.php';
 
 // Telegram token
-const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
+const TOKEN = '';
 
 // Telegram API url
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
