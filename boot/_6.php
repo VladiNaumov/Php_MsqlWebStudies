@@ -1,6 +1,5 @@
 <?php
 
-// phpinfo();
 
 error_reporting(-1);
 
@@ -8,55 +7,58 @@ error_reporting(-1);
 require '../libs/myDebug.php';
 
 // Telegram token
-const TOKEN = '';
+const TOKEN = '2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ';
 
 // Telegram API url
 const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
 
 
-const START = true;
+const START = false;
 
 while (START) {
 
+    $url = BASE_ULR . 'getUpdates';
     if (isset($last_update)) {
         $params = [
+            // передаём последний update_ID что бы сказать телеграмму что сообщение получено и прочитано
             'offset' => $last_update + 1,
         ];
-    } else {
-        $params = [];
+
+        // http_build_query() -> Генерирует URL-кодированную строку запроса из предоставленного ассоциативного (или индексированного) массива.
+        $url .= '?' . http_build_query($params);
+
+        // https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/getUpdates?offset=860099807
+
     }
 
-    $updates = send_request('getUpdates', $params);
 
-    if (!empty($updates->result)) {
-        file_put_contents(__DIR__ . '/logs.txt', print_r($updates, 1), FILE_APPEND);
-        foreach ($updates->result as $update) {
-            echo $update->message->text . PHP_EOL;
-            $last_update = $update->update_id;
+    $res = json_decode(file_get_contents($url));
 
-            send_request('sendMessage',
-            [
-                'chat_id' => $update->message->chat->id,
-                'text' => "Привет, {$update->message->from->first_name}! Вы написали: {$update->message->text}",
-            ]);
+    // send message
+    if (!empty($res->result)) {
+        file_put_contents(__DIR__ . '/logs.txt', print_r($res, 1), FILE_APPEND);
 
+        foreach ($res->result as $item) {
+
+            echo $item->message->text . PHP_EOL;
+
+            $last_update = $item->update_id;
+            $send_url = BASE_ULR . 'sendMessage';
+
+            $send_params = [
+                'chat_id' => $item->message->chat->id,
+                'text' => "Вы написали: {$item->message->text}",
+            ];
+
+            $send_url .= "?" . http_build_query($send_params);
+
+            $send = json_decode(file_get_contents($send_url));
         }
     }
 
-    sleep(3);
+    sleep(10);
+
 }
-
-// Функция отправки запросов
-function send_request($method, $params = [])
-{
-    $url = BASE_ULR . $method;
-
-    if (!empty($params)) {
-        $url = BASE_ULR . $method . '?' . http_build_query($params);
-    }
-    return json_decode(file_get_contents($url));
-}
-
 
 /*
  *Method getUpdate - Этот метод используется для получения обновлений через long polling (wiki).
@@ -78,6 +80,7 @@ function send_request($method, $params = [])
  *
  * file_get_contents - Читает содержимое файла в строку
  */
+
 
 
 
