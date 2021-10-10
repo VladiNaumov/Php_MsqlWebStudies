@@ -260,3 +260,77 @@ stdClass Object
         )
 
 )
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099834
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 895
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633709057
+                            [text] => Текст
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [update_id] => 860099835
+                    [message] => stdClass Object
+                        (
+                            [message_id] => 898
+                            [from] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [is_bot] => 
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [language_code] => ru
+                                )
+
+                            [chat] => stdClass Object
+                                (
+                                    [id] => 807221061
+                                    [first_name] => VoVa
+                                    [username] => NaumDeveloper
+                                    [type] => private
+                                )
+
+                            [date] => 1633865318
+                            [text] => ....
+                        )
+
+                )
+
+        )
+
+)

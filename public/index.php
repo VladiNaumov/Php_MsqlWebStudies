@@ -6,6 +6,7 @@
 
 error_reporting(-1);
 
+echo 'HELLO GAYs';
 
 require '../libs/myDebug.php';
 
@@ -20,8 +21,11 @@ const START = true;
 
 while (START) {
 
+    //Функция isset() позволяет определить, инициализирована ли переменная или нет. Если переменная определена, то isset() возвращает значение true.
     if (isset($last_update)) {
+
         $params = [
+            // формирует ответ в телеграмм, что сообщение прочитано
             'offset' => $last_update + 1,
         ];
     } else {
@@ -31,10 +35,19 @@ while (START) {
     $updates = send_request('getUpdates', $params);
 
     if (!empty($updates->result)) {
+
+        // file_put_contents — Пишет данные в файл
+        // Если filename не существует, файл будет создан. Иначе, существующий файл будет перезаписан, за исключением случая, если указан флаг FILE_APPEND.
         file_put_contents(__DIR__ . '/logs.txt', print_r($updates, 1), FILE_APPEND);
+
+        // проход по ассациативнуму массиву
         foreach ($updates->result as $update) {
+
+            // PHP_EOL - делает корректный символ конца строки
             echo $update->message->text . PHP_EOL;
+
             $last_update = $update->update_id;
+
 
             send_request('sendMessage',
             [
@@ -48,13 +61,25 @@ while (START) {
     sleep(3);
 }
 
-// Функция отправки запросов
+// Функция формирование строк запроса
 function send_request($method, $params = [])
 {
+    // формирование строки запроса
+
+    // api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/getUpdates
+    // api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/sendMessage
+
     $url = BASE_ULR . $method;
 
     if (!empty($params)) {
+
+        // если есть дополнительные параметры мы их добовляем в строку запоса
+
+        // http_build_query — Генерирует URL-кодированную строку запроса
+
         $url = BASE_ULR . $method . '?' . http_build_query($params);
+
+        // пример полученной строки в переменной $url https://api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/getUpdates?offset=860099836
     }
     return json_decode(file_get_contents($url));
 }
