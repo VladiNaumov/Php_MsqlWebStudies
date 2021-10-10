@@ -66,8 +66,6 @@ function send_request($method, $params = [])
 {
     // формирование строки запроса
 
-    // api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/getUpdates
-    // api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/sendMessage
 
     $url = BASE_ULR . $method;
 
@@ -79,7 +77,7 @@ function send_request($method, $params = [])
 
         $url = BASE_ULR . $method . '?' . http_build_query($params);
 
-        // пример полученной строки в переменной $url https://api.telegram.org/bot2006101055:AAGELSrxr_odVD4EzzscO5CpTIazjS_DysE/getUpdates?offset=860099836
+        // пример полученной строки в переменной $url https://api.telegram.org/TOKEN/getUpdates?offset=860099836
     }
     return json_decode(file_get_contents($url));
 }
