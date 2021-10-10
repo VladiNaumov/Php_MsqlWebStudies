@@ -20,7 +20,7 @@ const BASE_ULR = 'https://api.telegram.org/bot' . TOKEN . '/';
  * Ответ возвращается в виде массива объектов Update.
 */
 
-// пример получение строки https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/getUpdates
+// пример получение строки https://api.telegram.org/BOT_TOKEN/getUpdates
 $url = BASE_ULR . 'getUpdates';
 
 
@@ -29,7 +29,7 @@ $url = BASE_ULR . 'getUpdates';
  * Use this method to send text messages. On success, the sent Message is returned
  */
 
-// пример получение строки  https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/sendMessage
+// пример получение строки  https://api.telegram.org/DOT_TOKEN/sendMessage
 $send_url = BASE_ULR . 'sendMessage';
 
 

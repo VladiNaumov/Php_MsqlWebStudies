@@ -27,7 +27,7 @@ while (START) {
         // http_build_query() -> Генерирует URL-кодированную строку запроса из предоставленного ассоциативного (или индексированного) массива.
         $url .= '?' . http_build_query($params);
 
-        // https://api.telegram.org/bot2006101055:AAEE98ckdoAzDCJ5bZBVyV9txN3b-s3HfIQ/getUpdates?offset=860099807
+        // https://api.telegram.org/BOT_TOKEN/getUpdates?offset=860099807
 
     }
 
