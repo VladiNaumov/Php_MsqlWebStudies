@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TelegramBoot.iml" filepath="$PROJECT_DIR$/.idea/TelegramBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PhpMsqlWebBoock.iml" filepath="$PROJECT_DIR$/.idea/PhpMsqlWebBoock.iml" />
     </modules>
   </component>
 </project>
