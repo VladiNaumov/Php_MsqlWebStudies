@@ -334,3 +334,616 @@ stdClass Object
         )
 
 )
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099841
+            [message] => stdClass Object
+                (
+                    [message_id] => 910
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635329451
+                    [text] => Кре
+                )
+
+        )
+
+    [1] => stdClass Object
+        (
+            [update_id] => 860099842
+            [message] => stdClass Object
+                (
+                    [message_id] => 911
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635330168
+                    [text] => Нее
+                )
+
+        )
+
+    [2] => stdClass Object
+        (
+            [update_id] => 860099843
+            [message] => stdClass Object
+                (
+                    [message_id] => 912
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344146
+                    [text] => R
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099844
+            [message] => stdClass Object
+                (
+                    [message_id] => 916
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344179
+                    [text] => Logo
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099845
+            [message] => stdClass Object
+                (
+                    [message_id] => 918
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344278
+                    [text] => Test
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099848
+            [message] => stdClass Object
+                (
+                    [message_id] => 924
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344474
+                    [text] => —-
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099850
+            [message] => stdClass Object
+                (
+                    [message_id] => 929
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344538
+                    [text] => 😱
+                )
+
+        )
+
+    [1] => stdClass Object
+        (
+            [update_id] => 860099851
+            [message] => stdClass Object
+                (
+                    [message_id] => 930
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344550
+                    [sticker] => stdClass Object
+                        (
+                            [width] => 512
+                            [height] => 512
+                            [emoji] => 🤩
+                            [set_name] => gldfsh
+                            [is_animated] => 1
+                            [thumb] => stdClass Object
+                                (
+                                    [file_id] => AAMCAgADGQEAAgOiYXlgpmV4lmfC2NJfuZZQwKSH31IAAmkCAAJWnb0K1rlfSHtEZG8BAAdtAAMhBA
+                                    [file_unique_id] => AQADaQIAAladvQpy
+                                    [file_size] => 7238
+                                    [width] => 128
+                                    [height] => 128
+                                )
+
+                            [file_id] => CAACAgIAAxkBAAIDomF5YKZleJZnwtjSX7mWUMCkh99SAAJpAgACVp29Cta5X0h7RGRvIQQ
+                            [file_unique_id] => AgADaQIAAladvQo
+                            [file_size] => 9951
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099852
+            [message] => stdClass Object
+                (
+                    [message_id] => 933
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344755
+                    [text] => B
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099853
+            [message] => stdClass Object
+                (
+                    [message_id] => 935
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344761
+                    [text] => H
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099854
+            [message] => stdClass Object
+                (
+                    [message_id] => 937
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344768
+                    [text] => 3
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099855
+            [message] => stdClass Object
+                (
+                    [message_id] => 939
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344775
+                    [text] => 4
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099856
+            [message] => stdClass Object
+                (
+                    [message_id] => 941
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344786
+                    [text] => 5
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099857
+            [message] => stdClass Object
+                (
+                    [message_id] => 943
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344876
+                    [text] => 1
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099858
+            [message] => stdClass Object
+                (
+                    [message_id] => 945
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344880
+                    [text] => W
+                )
+
+        )
+
+    [1] => stdClass Object
+        (
+            [update_id] => 860099859
+            [message] => stdClass Object
+                (
+                    [message_id] => 946
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344881
+                    [text] => E
+                )
+
+        )
+
+    [2] => stdClass Object
+        (
+            [update_id] => 860099860
+            [message] => stdClass Object
+                (
+                    [message_id] => 947
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344883
+                    [text] => R
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099861
+            [message] => stdClass Object
+                (
+                    [message_id] => 951
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344887
+                    [text] => T
+                )
+
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [update_id] => 860099862
+            [message] => stdClass Object
+                (
+                    [message_id] => 953
+                    [from] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [is_bot] => 
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [language_code] => ru
+                        )
+
+                    [chat] => stdClass Object
+                        (
+                            [id] => 807221061
+                            [first_name] => VoVa
+                            [username] => NaumDeveloper
+                            [type] => private
+                        )
+
+                    [date] => 1635344890
+                    [text] => T
+                )
+
+        )
+
+)
