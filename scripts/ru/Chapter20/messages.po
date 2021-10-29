@@ -1,0 +1,17 @@
+# требуются пустые msgid и msgstr
+msgid ""
+msgstr ""
+ 
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: 2017-04-05 14:00+0500\n"
+"Last-Translator: Иван Петров <ivan@petrov.com>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru_RU\n"
+ 
+# приветственное сообщение
+msgid "WELCOME_TEXT"
+msgstr "Добро пожаловать!"
+ 
+# приглашение выбрать язык
+msgid "CHOOSE_LANGUAGE"
+msgstr "Выберите язык"

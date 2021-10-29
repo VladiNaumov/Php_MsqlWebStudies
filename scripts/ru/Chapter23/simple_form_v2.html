@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Пример формы</title>
+</head>
+<body>
+   <form id="myForm">
+    <label for="first_name">Имя</label><br/>
+    <input type="text" name="name[first]" 
+           id="first_name" class="name"/><br/>
+    <label for="last_name">Фамилия</label><br/>
+    <input type="text" name="name[last]" 
+           id="last_name" class="name"/><br/>
+    <button type="submit">Отправить форму</button>
+    </form>
+ 
+   <hr/>
+ 
+   <div id="webConsole">
+      <h3>Веб-консоль</h3>
+   </div>
+    
+    <script src="//code.jquery.com/jquery-2.2.3.min.js"></script>
+ 
+    <script>
+       var webConsole = function(msg) {
+          var console = $('#webConsole');
+          var newMessage = $('<p>').text(msg);
+          console.append(newMessage);
+       }
+ 
+       $(document).on('ready', function() {
+          $('#first_name').attr('placeholder', 'Иван');
+          $('#last_name').attr('placeholder', 'Петров');   
+       });
+            
+       $('#myForm').on('submit', function(event) {
+          var first_name = $('#first_name').val();
+          var last_name = $('#last_name').val();
+                
+          webConsole("Форма была отправлена");
+          alert("Здравствуйте, " + first_name + " " + last_name + "!");
+        });
+            
+        $('.name').on('focusout', function(event) {
+          var nameField = $(event.target);
+          webConsole("Поле имени '" + 
+                     nameField.attr('id') + 
+                     "' было обновлено на '" + 
+                     nameField.val() + 
+                     "''");
+          });
+    </script>   
+     
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Загрузка файла</title>
+</head>
+<body>
+  <h1>Загрузка файла</h1>
+  <form action="upload.php" method="post" enctype="multipart/form-data">
+  <input type="hidden" name="MAX_FILE_SIZE" value="1000000" />
+  <label for="the_file">Загрузка файла:</label>
+  <input type="file" name="the_file" id="the_file"/>
+  <input type="submit" value="Загрузить"/>
+  </form>
+</body>
+</html>

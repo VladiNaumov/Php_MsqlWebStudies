@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Автозапчасти от Вовки - Форма заказа</title>
+  </head>
+  <body>
+    <form action="processorder.php" method="post">
+    <table style="border: 0px;">
+    <tr style="background: #cccccc;">
+      <td style="width: 150px; text-align: center;">Товар</td>
+      <td style="width: 15px; text-align: center;">Количество</td>
+    </tr>
+    <tr>
+      <td>Шины</td>
+      <td><input type="text" name="tireqty" size="3" maxlength="3" /></td>
+    </tr>
+    <tr>
+     <td>Масло</td>
+     <td><input type="text" name="oilqty" size="3" maxlength="3" /></td>
+    </tr>
+    <tr>
+     <td>Свечи зажигания</td>
+     <td><input type="text" name="sparkqty" size="3" maxlength="3" /></td>
+    </tr>
+    <tr>
+     <td colspan="2" style="text-align: center;"><input type="submit" value="Отправить заказ" /></td>
+    </tr>
+    </table>
+    </form>
+  </body>
+</html>

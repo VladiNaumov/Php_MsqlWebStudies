@@ -9,12 +9,6 @@ echo '<pre> HELLO GAYs </pre>';
 
 
 
-
-
-
-
-//TEST TEST TEST
-
 /*
  * Дваеточие - это обращение к статическому методу
  * Ruoter::dispatch($query);

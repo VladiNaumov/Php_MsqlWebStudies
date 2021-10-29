@@ -5,7 +5,459 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d7ab29a-9a34-42a9-ad26-77d9cd496b6e" name="Changes" comment="PhP">
+      <change afterPath="$PROJECT_DIR$/scripts/eng/Code-samples-eng.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/freight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/freight.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/orderform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/orderform_v2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/processorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/processorder_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/processorder_v3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter01/processorder_v4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter02/orderform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter02/orders.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter02/processorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter02/vieworders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter02/vieworders_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/bobs_front_page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/brakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/each.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/headlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/spark_plug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/steering_wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/tire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/vieworders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/vieworders_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter03/wiper_blade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter04/feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter04/processfeedback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter04/processfeedback_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/closures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/create_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/create_tablev2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/larger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/larger_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/recursion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/reusable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/s-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/scope.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/scope2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/undefined.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter05/var_args.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/fizzbuzz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/iterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/reflection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/s-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/side-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter06/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/Exception class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/basic_exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/file_exceptions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/finally.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/orderform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/processorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter07/user_defined_exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter09/bookorama.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter10/book_insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/insert_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/newbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/results.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/results_pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter11/search_pdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter13/basic_function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter13/basic_function_with_variables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter13/basic_stored_procedure.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter13/control_structures_cursors.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter13/trigger.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter15/simple_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter15/submit_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/basic_auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/htpass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/rejection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/secret.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter16/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/browsedir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/browsedir2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/browsedir_link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/filedetails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/progex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/scandir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter17/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter18/directory_submit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter18/directory_submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter18/ftp_mirror.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter18/lookup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter19/calc_age.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter19/mysql_calc_age.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter20/define_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter20/lang_selector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter20/lang_strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter20/messages.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter20/use_gettext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/blue-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/design_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/green-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/make_button.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/pollsetup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/red-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/show_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/show_poll.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/simplegraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter21/vote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/authmain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/members_only.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter22/page3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter23/chat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter23/chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter23/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter23/simple_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter23/simple_form_v2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter24/iniset.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter24/list_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter24/showsource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter26/dump_variables.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter26/handle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/add_bm() Function from url_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/add_bm_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/add_bms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/bookmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/bookmark_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/bookmarks.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/change_passwd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/change_passwd_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/change_password() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/check_valid_user() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/data_valid_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/db_connect() Function from db_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/db_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/delete_bm() Function in url_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/delete_bms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/do_html_header() Function from output_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/filled_out() Function from data_valid_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/forgot_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/forgot_passwd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/get_random_word() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/get_user_urls() Function from url_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/login() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/member.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/notify_password() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/output_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/recommend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/recommend_urls() Function from url_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/register() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/register_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/register_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/reset_password() Function from user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/url_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/user_auth_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter27/valid_email() Function from data_valid_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter28-29.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter30/complete-oauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter30/feed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter30/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter30/like.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter30/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/admin_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/book_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/book_sc.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/book_sc_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/change_password.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/change_password_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/checkout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/data_valid_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/db_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/delete_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/delete_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/edit_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/edit_book_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/edit_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/edit_category_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/978-5-8459-1574-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/978-5-8459-1866-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/978-5-8459-1922-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/Book-O-Rama.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/add-to-cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/admin-menu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/back.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/bookmark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/continue-shopping.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/continue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/edit-category.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/edit-item.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/go-to-checkout.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/log-out.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/place_order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/purchase.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/save-changes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/images/view-cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/insert_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/insert_book_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/insert_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/insert_category_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/order_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/output_fns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/populate.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/purchase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/show_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/show_cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/show_cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ru/Chapter31/user_auth_fns.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/eng.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/freight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/freight.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/orderform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/orderform_v2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/processorder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/processorder_v2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/processorder_v3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter01/processorder_v4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter02/orderform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter02/orders.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter02/processorder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter02/vieworders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter02/vieworders_v2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/bobs_front_page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/brakes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/each.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/headlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/spark_plug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/steering_wheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/tire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/vieworders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/vieworders_v2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter03/wiper_blade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter04/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter04/processfeedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter04/processfeedback_v2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/closures.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/create_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/create_tablev2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/larger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/larger_v2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/recursion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/reusable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/s-logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/scope.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/scope2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/undefined.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter05/var_args.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/fizzbuzz.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/iterator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/reflection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/s-logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/side-logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter06/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/Exception class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/basic_exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/file_exceptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/finally.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/orderform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/processorder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter07/user_defined_exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter09/bookorama.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter10/book_insert.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/insert_book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/newbook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/results.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/results_pdo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter11/search_pdo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter13/basic_function.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter13/basic_function_with_variables.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter13/basic_stored_procedure.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter13/control_structures_cursors.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter13/trigger.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter15/simple_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter15/submit_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/basic_auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/htpass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/rejection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/secret.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter16/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/browsedir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/browsedir2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/browsedir_link.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/filedetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/progex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/scandir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter17/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter18/directory_submit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter18/directory_submit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter18/ftp_mirror.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter18/lookup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter19/calc_age.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter19/mysql_calc_age.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter20/define_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter20/lang_selector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter20/lang_strings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter20/messages.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter20/use_gettext.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/blue-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/design_button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/green-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/make_button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/pollsetup.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/red-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/show_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/show_poll.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/simplegraph.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter21/vote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/authmain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/members_only.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/page1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/page2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter22/page3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter23/chat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter23/chat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter23/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter23/simple_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter23/simple_form_v2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter24/iniset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter24/list_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter24/showsource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter26/dump_variables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter26/handle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/add_bm() Function from url_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/add_bm_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/add_bms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/bookmark.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/bookmark_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/bookmarks.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/change_passwd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/change_passwd_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/change_password() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/check_valid_user() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/data_valid_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/db_connect() Function from db_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/db_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/delete_bm() Function in url_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/delete_bms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/do_html_header() Function from output_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/filled_out() Function from data_valid_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/forgot_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/forgot_passwd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/get_random_word() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/get_user_urls() Function from url_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/login() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/member.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/notify_password() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/output_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/recommend.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/recommend_urls() Function from url_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/register() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/register_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/register_new.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/reset_password() Function from user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/url_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/user_auth_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter27/valid_email() Function from data_valid_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter28-29.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter30/complete-oauth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter30/feed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter30/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter30/like.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter30/settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/admin_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/book_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/book_sc.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/book_sc_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/change_password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/change_password_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/data_valid_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/db_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/delete_book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/delete_category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/edit_book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/edit_book_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/edit_category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/edit_category_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/978-5-8459-1574-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/978-5-8459-1866-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/978-5-8459-1922-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/Book-O-Rama.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/add-to-cart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/admin-menu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/bookmark.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/cart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/continue-shopping.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/continue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/edit-category.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/edit-item.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/go-to-checkout.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/log-out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/place_order.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/purchase.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/save-changes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/images/view-cart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/insert_book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/insert_book_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/insert_category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/insert_category_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/order_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/output_fns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/populate.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/purchase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/show_book.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/show_cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/show_cat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rus/Code-samples-rus/Chapter31/user_auth_fns.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +468,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
@@ -42,12 +495,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../PHP/php-cgi.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="ssh.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -98,6 +551,9 @@
       <workItem from="1635525847899" duration="400000" />
       <workItem from="1635526296731" duration="506000" />
       <workItem from="1635527193096" duration="46000" />
+      <workItem from="1635527306487" duration="1051000" />
+      <workItem from="1635531173178" duration="61000" />
+      <workItem from="1635531499111" duration="636000" />
     </task>
     <task id="LOCAL−00001" summary="PhP">
       <created>1635523461127</created>
@@ -159,7 +615,19 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1635526692680</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="PhP">
+      <created>1635527450789</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1635527450789</updated>
+    </task>
+    <task id="LOCAL−00012" summary="PhP">
+      <created>1635527481519</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1635527481519</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

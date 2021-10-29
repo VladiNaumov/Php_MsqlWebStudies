@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Дизайн кнопки</title>
+</head>
+<body>
+<h1>Дизайн кнопки</h1>
+
+<form action="make_button.php" method="post">
+<p><label for="button_text">Введите текст для кнопки:</label><br/>
+<input type="text" name="button_text" id="button_text" size="30" /></p>
+
+<p>Выберите цвет для кнопки:<br/>
+<input type="radio" name="button_color" id="bc_red" value="red" />
+   <label for="bc_red">Красный</label><br/>
+<input type="radio" name="button_color" id="bc_green" value="green" />
+   <label for="bc_green">Зеленый</label><br/>
+<input type="radio" name="button_color" id="bc_blue" value="blue" />
+   <label for="bc_blue">Синий</label></p>
+
+<button type="submit" name="create_button">Создать кнопку</button>
+</form>
+
+</body>
+</html>

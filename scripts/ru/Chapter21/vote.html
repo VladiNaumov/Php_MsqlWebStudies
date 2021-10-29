@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Опрос</title>
+</head>
+<body>
+<h1>Опрос</h1>
+<p>Кому вы отдадите свой голос на выборах?</p>
+ 
+<form action="show_poll.php" method="post">
+ 
+<p>Выберите политика:<br/>
+<input type="radio" name="vote" id="vote_ilia_muromets" value="Илья Муромец" />
+   <label for="vote_ilia_muromets">Илья Муромец</label><br/>
+<input type="radio" name="vote" id="vote_dobrynia_nikitich" value="Добрыня Никитич" />
+   <label for="vote_dobrynia_nikitich">Добрыня Никитич</label><br/>
+<input type="radio" name="vote" id="vote_alesha_popovitch" value="Алеша Попович" />
+   <label for="vote_alesha_popovitch">Алеша Попович</label><br/>
+</p>
+ 
+<button type="submit" name="show_results">Показать результаты</button>
+</form>
+ 
+</body>
+</html>

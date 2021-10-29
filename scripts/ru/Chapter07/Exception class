@@ -1,0 +1,27 @@
+<?php
+class Exception
+{
+    protected $message = 'Unknown exception';   // сообщение исключения
+    private   $string;                          // кеш __toString()
+    protected $code = 0;                        // код исключения, определяемый пользователем
+    protected $file;                            // имя файла, где возникло исключение
+    protected $line;                            // строка, в которой возникло исключение
+    private   $trace;                           // обратная трассировка
+    private   $previous;                        // предыдущее исключение в случае вложенного исключения
+ 
+    public function __construct($message = null, $code = 0, Exception $previous = null);
+ 
+    final private function __clone();           // запрещает клонирование исключений
+ 
+    final public  function getMessage();        // сообщение исключения
+    final public  function getCode();           // код исключения
+    final public  function getFile();           // имя файла, где возникло исключение
+    final public  function getLine();           // строка, в которой возникло исключение
+    final public  function getTrace();          // массив backtrace()
+    final public  function getPrevious();       // предыдущее исключение
+    final public  function getTraceAsString();  // форматированная строка трассировки
+ 
+    /* Переопределяемые */
+    public function __toString();               // форматированная строка для отображения
+}
+?>
